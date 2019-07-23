@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+}
+
+#article--1 {
+    border: solid black;
+    flex-basis: 50%;
+}
+
+#article--2 {
+    border: solid cornflowerblue;
+    flex-basis: 50%;
+}
